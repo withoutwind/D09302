@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         initView();
         initData();
     }
-
+    int x=9;
     private void initData() {
     }
 
